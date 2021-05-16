@@ -1,0 +1,38 @@
+body{
+    font-family: arial, serif;
+}
+
+h1{
+    color: DarkGreen;
+    font-size: 2em;
+}
+
+h2{
+    color: RoyalBlue;
+}
+
+h3{
+    color: Green;
+}
+
+p{
+
+    color: SteelBlue;
+    margin-right: 100px;
+}
+
+ul li{
+    color: MidnightBlue;
+    font-weight: bold;
+
+}
+
+strong{
+
+    color:Teal;
+}
+
+em{
+
+    color: seagreen;
+}
